@@ -1,0 +1,13 @@
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\bin\Debug\netcoreapp3.1\double_linked_list.exe
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\bin\Debug\netcoreapp3.1\double_linked_list.deps.json
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\bin\Debug\netcoreapp3.1\double_linked_list.runtimeconfig.json
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\bin\Debug\netcoreapp3.1\double_linked_list.runtimeconfig.dev.json
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\bin\Debug\netcoreapp3.1\double_linked_list.dll
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\bin\Debug\netcoreapp3.1\double_linked_list.pdb
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\obj\Debug\netcoreapp3.1\double_linked_list.csproj.AssemblyReference.cache
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\obj\Debug\netcoreapp3.1\double_linked_list.AssemblyInfoInputs.cache
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\obj\Debug\netcoreapp3.1\double_linked_list.AssemblyInfo.cs
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\obj\Debug\netcoreapp3.1\double_linked_list.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\obj\Debug\netcoreapp3.1\double_linked_list.dll
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\obj\Debug\netcoreapp3.1\double_linked_list.pdb
+C:\Users\HP Pavillion\source\repos\double_linked_list\double_linked_list\obj\Debug\netcoreapp3.1\double_linked_list.genruntimeconfig.cache
